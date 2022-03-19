@@ -3,6 +3,10 @@
   "description": "A chrome extension for Netflix that shows battery info on full screen mode",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "48": "icons/netfulx_48.png",
+    "128": "icons/netfulx_128.png"
+  },
   "content_scripts": [
     {
       "matches": ["*://*/*"],
