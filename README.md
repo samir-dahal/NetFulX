@@ -14,3 +14,5 @@
 3. Click on **Load unpacked** extension and select the path to the repo.
 
 **That's it! Now goto Netflix site and enjoy your movie/series/documantaries in full screen with no fear of consistently checking your laptop's battery percentage.**
+
+![image](https://user-images.githubusercontent.com/39849021/159115167-0fc646b0-62bf-454b-97d7-1713ce3350d3.png)
