@@ -1,6 +1,6 @@
 # NetFulX
 
-- A chrome extension that displays battery percentage with charging status ⚡️
+- A chrome extension that displays battery percentage with charging status ⚡️ and time
   while playing Neflix on fullscreen!
 
 - Important: Only works in full screen
