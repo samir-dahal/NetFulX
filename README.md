@@ -1,3 +1,5 @@
+## Update: I no longer have access to Netflix now, so can't say if it still works. If it still works and is useful to you, feel free to continue using it.
+
 # NetFulX
 
 - A chrome extension that displays battery percentage with charging status ⚡️ and time
